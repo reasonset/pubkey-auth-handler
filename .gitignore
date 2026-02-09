@@ -1,0 +1,4 @@
+/vendor
+/Gemfile.lock
+/test/pubkeyauth.js
+/var/keys.json
